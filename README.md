@@ -25,6 +25,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reagm&show_icons=true&theme=radical&*locale=en&layout=compact" alt="reagm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xatitive&show_icons=true&theme=radical&locale=en&layout=compact" alt="xatitive" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reagm&show_icons=true&theme=radical&locale=en" alt="reagm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xatitive&theme=radical&show_icons=true&locale=en" alt="xatitive" /></p>
